@@ -1,7 +1,7 @@
 # 🏥 Medical Insurance Cost Prediction
 
 An end-to-end Machine Learning regression project that predicts medical insurance costs using demographic and lifestyle factors.  
-The project covers EDA, data preprocessing, model comparison, evaluation, and deployment using Streamlit.
+The project covers EDA, data preprocessing, model comparison, evaluation, and implementation of an interactive Streamlit user interface.
 
 ---
 
@@ -15,7 +15,7 @@ This project aims to develop a regression model for predicting insurance charges
 ## Dataset
 
 - Total records: **1338**
-- Target variable: **charges**(Medical Insurance Cost)
+- Target variable: **charges** (Medical Insurance Cost)
 
 **Note:** The dataset is **U.S.-based**, and the `region` feature corresponds to U.S. geographic regions.
 
